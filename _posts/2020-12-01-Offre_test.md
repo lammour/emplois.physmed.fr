@@ -11,10 +11,10 @@ categories: physicien radiologie
 Les activités couvertes par le poste sont principalement celles de radiodiagnostic, mais également l'imagerie embarquée en radiothérapie et le scanner de simulation. La personne recrutée participera à la routine, au développement, à l'enseignement et à la recherche.
 
 # Installations
-28 scanners dont 12 à double énergie
-1 IRM 0,4 T
-0,5 scanner de simulation dosimétrique
-1 accélérateur avec CBCT embarqué
+- 28 scanners dont 12 à double énergie
+- 1 IRM 0,4 T
+- 0,5 scanner de simulation dosimétrique
+- 1 accélérateur avec CBCT embarqué
 
 # Qualifications
-DQPRM
+- DQPRM
