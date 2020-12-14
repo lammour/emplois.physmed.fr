@@ -1,2 +1,3 @@
-# m2.physmed.fr
-Liste des masters de physique médicale en France
+# emplois.physmed.fr
+
+Diffusion des offres d'emploi publiées sur liste.physmed.fr
