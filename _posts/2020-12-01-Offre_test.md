@@ -5,7 +5,7 @@ date: 2020-12-01 16:43:00 +1
 categories: physicien radiologie
 ---
 
-Le CHU de Test recrute un.e physicien.ne en CDI !
+*Le CHU de Test recrute un.e physicien.ne en CDI !*
 
 # Missions
 Les activités couvertes par le poste sont principalement celles de radiodiagnostique, mais également l'imagerie embarquée en radiothérapie et le scanner de simulation. La personne recrutée participera à la routine, au développement, à l'enseignement et à la recherche.
