@@ -52,3 +52,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Translation
+
+t:
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
+    about:
+      name: "À propos"
+      url: "/a-propos/"
+    posts:
+      name: "Annonces"
+      url: "/annonces/"	  
+
