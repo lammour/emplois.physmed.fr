@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: **emplois**.physmed.fr
+title: emplois.physmed.fr
 email: physique-medicale-owner@liste.physmed.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Diffusion des offres d'emploi publiée sur la liste de diffusion [physique-médicale](https://liste.physmed.fr/mailman/listinfo/physique-medicale).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "emplois.physmed.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: lammour
+github_username:  lammour
 
 # Build settings
 theme: minima
