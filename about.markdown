@@ -4,16 +4,9 @@ title: À propos
 permalink: /about/
 ---
 
-Ce site regroupe les offres d'emploi publiées sur la liste de diffusion [`physique-médicale`](https://liste.physmed.fr/mailman/listinfo/physique-medicale)
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ce site regroupe les offres d'emploi publiées sur la liste de diffusion [physique-médicale](https://liste.physmed.fr/mailman/listinfo/physique-medicale).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Le site est maintenu par Luis Ammour et disponible sur le dépôt git : [https://github.com/lammour/emplois.physmed.fr](https://github.com/lammour/emplois.physmed.fr). Les propositions de modifications ou d'ajouts sont bienvenues.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Les annonces sont validées par leurs auteurs et leur contenu n'engage pas l'administrateur du site.
 
-
-[jekyll-organization]: https://github.com/jekyll
