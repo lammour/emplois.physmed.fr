@@ -7,6 +7,8 @@ categories: physicien radiologie
 
 *Venez découvrir le CHU de Test !*
 
+<!--more-->  
+
 # Missions
 Les activités couvertes par le poste sont très variées.
 
