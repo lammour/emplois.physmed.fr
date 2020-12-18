@@ -2,6 +2,7 @@
 layout: post
 title: "Offre d'emploi (exemple) : physicien·ne médical·e (CDI) en radiologie au CHU de Test"
 date: 2020-12-01 16:43:00 +1
+author: Nom de l'auteur
 categories: physicien radiologie
 ---
 
