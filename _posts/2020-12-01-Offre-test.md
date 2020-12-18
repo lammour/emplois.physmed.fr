@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Offre d'emploi : physicien.ne médical.e en radiologie au CHU de Test"
+title: "Offre d'emploi (exemple) : physicien·ne médical·e (CDI) en radiologie au CHU de Test"
 date: 2020-12-01 16:43:00 +1
 categories: physicien radiologie
 ---
 
-*Le CHU de Test recrute un.e physicien.ne en CDI !*
+*Venez découvrir le CHU de Test !*
 
 # Missions
-Les activités couvertes par le poste sont principalement celles de radiodiagnostic, mais également l'imagerie embarquée en radiothérapie et le scanner de simulation. La personne recrutée participera à la routine, au développement, à l'enseignement et à la recherche.
+Les activités couvertes par le poste sont très variées.
 
-# Installations
-- 28 scanners dont 12 à double énergie
-- 1 IRM 0,4 T
-- 0,5 scanner de simulation dosimétrique
-- 1 accélérateur avec CBCT embarqué
+# Équipe
+Vous rejoindrez une équipe de 12 E.T.P. physiciens en imagerie.
+
+# Plateau technique
+- Très bonne machine à café
 
 # Qualifications
 - DQPRM
