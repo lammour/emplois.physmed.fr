@@ -56,7 +56,7 @@ plugins:
 # Translation
 
 t:
-  fr:
+  en:
     home:
       name: "Accueil"
       url: "/accueil/"
