@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
+Ce site regroupe les offres d'emploi publiées sur la liste de diffusion [`physique-médicale`](https://liste.physmed.fr/mailman/listinfo/physique-medicale)
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
