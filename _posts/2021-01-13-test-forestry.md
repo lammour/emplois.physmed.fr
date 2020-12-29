@@ -22,6 +22,6 @@ Oui
 
 ## Collègues
 
-Gentils
+[Download File]( "Download File")
 
-# [guide_yahoomail.pdf](https://app.forestry.io/sites/6nmjvmsrxb-exg/body-media//uploads/guide_yahoomail.pdf "guide_yahoomail.pdf")
+# [guide_yahoomail.pdf](/uploads/guide_yahoomail.pdf "guide_yahoomail.pdf")
