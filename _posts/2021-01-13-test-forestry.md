@@ -10,6 +10,8 @@ categories: test offre forestry annonce
 
 L'hôpital de Test recrute un.e PCR pour un CDD de 2 jours.
 
+<!--more-->
+
 ## Missions
 
 Variées
@@ -21,3 +23,5 @@ Oui
 ## Collègues
 
 Gentils
+
+# [guide_yahoomail.pdf](https://app.forestry.io/sites/6nmjvmsrxb-exg/body-media//uploads/guide_yahoomail.pdf "guide_yahoomail.pdf")
