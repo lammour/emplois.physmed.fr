@@ -22,6 +22,6 @@ Oui
 
 ## Collègues
 
-[Download File]( "Download File")
+[guide_yahoomail.pdf](/uploads/guide_yahoomail.pdf "guide_yahoomail.pdf")
 
-# [guide_yahoomail.pdf](/uploads/guide_yahoomail.pdf "guide_yahoomail.pdf")
+![](https://github.com/lammour/emplois.physmed.fr/raw/main/uploads/patient.jpeg)
