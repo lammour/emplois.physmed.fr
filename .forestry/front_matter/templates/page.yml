@@ -13,3 +13,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- publier-une-annonce-1.md
