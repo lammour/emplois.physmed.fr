@@ -2,7 +2,6 @@
 layout: page
 title: Publier une annonce
 permalink: "/PublierAnnonce/"
-published: false
 
 ---
 Bonjour,
