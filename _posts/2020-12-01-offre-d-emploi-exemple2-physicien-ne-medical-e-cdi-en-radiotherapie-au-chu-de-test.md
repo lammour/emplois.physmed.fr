@@ -21,8 +21,10 @@ Vous rejoindrez une équipe de 12 E.T.P. physiciens en radiothérapire.
 
 # Plateau technique
 
-* Très bonne machine à café, et super poste informatique 
+* Très bonne machine à café, et super poste informatique
 
 # Qualifications
 
 * DQPRM quoique
+
+![](https://github.com/lammour/emplois.physmed.fr/raw/main/uploads/patient.jpeg)
